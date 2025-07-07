@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2bf0cc0.css",
-    "main.js": "/static/js/main.7dc7b632.js",
-    "static/media/whitebg.jpg": "/static/media/whitebg.a4492b394449f8791b43.jpg",
-    "static/media/bg3.jpg": "/static/media/bg3.c616148a9d5b39057eaa.jpg",
-    "index.html": "/index.html",
-    "main.c2bf0cc0.css.map": "/static/css/main.c2bf0cc0.css.map",
-    "main.7dc7b632.js.map": "/static/js/main.7dc7b632.js.map"
+    "main.css": "/poetry-portfolio/static/css/main.ea87bfd6.css",
+    "main.js": "/poetry-portfolio/static/js/main.7dc7b632.js",
+    "static/media/whitebg.jpg": "/poetry-portfolio/static/media/whitebg.a4492b394449f8791b43.jpg",
+    "static/media/bg3.jpg": "/poetry-portfolio/static/media/bg3.c616148a9d5b39057eaa.jpg",
+    "index.html": "/poetry-portfolio/index.html",
+    "main.ea87bfd6.css.map": "/poetry-portfolio/static/css/main.ea87bfd6.css.map",
+    "main.7dc7b632.js.map": "/poetry-portfolio/static/js/main.7dc7b632.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2bf0cc0.css",
+    "static/css/main.ea87bfd6.css",
     "static/js/main.7dc7b632.js"
   ]
 }
